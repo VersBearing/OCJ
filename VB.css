@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css?family=Livvic');
+@import url('https://fonts.googleapis.com/css?family=Lexend Zetta');
+
+html, body{
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	width:  100%;
+}
+.intro {
+	height: 100%;
+	width: 100%;
+	margin: auto;
+	background: url(https://images.pexels.com/photos/1529662/pexels-photo-1529662.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+	display:table;
+	top: 0;
+	background-size: cover;
+
+}
+.intro .inner {
+	display: table-cell;
+	vertical-align: middle;
+	width: 100%;
+	max-width: none;
+}
+.content {
+	max-width: 500px;
+	margin: 0 auto;
+	text-align: center;
+}
+.content h1{
+	font-family: 'Livvic', sans-serif;
+	color:#FF7F50;
+	text-shadow: 0px 0px 300px #000;
+	font-size: 500%;	
+}
+.btn{
+	border-radius: 9px;
+	font-family: 'Lexend Zetta',sans-serif;
+	font-weight: bold;
+	color: #FFA07A;
+	font-size: 135%;
+	padding: 10px 20px;
+	border: dotted #FFA07A 3px;
+	text-transform: uppercase;
+	text-decoration: none;	
+}
+.btn:hover{
+	color: #fff;
+	border: dotted #fff 3px;
+}
+p{
+	font-size: 120%;
+	font-family: 'Lexend Zetta'.sans-serif;
+	line-height: 210%;
+	text-align: justify;
+	margin: 3%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
