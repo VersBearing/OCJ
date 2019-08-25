@@ -54,11 +54,12 @@ p{
 	font-family: 'Lexend Zetta'.sans-serif;
 	line-height: 210%;
 	text-align: justify;
-	margin: 3%;
+	margin: 3%;	
+	border: dotted #fff 3px;
 }
-.paragrapha{
-	color: #FFA07A;
-}
+
+
+
 
 
 
